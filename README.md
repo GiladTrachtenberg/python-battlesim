@@ -18,8 +18,8 @@ Easy, now! I'll be right happy to, of course. Just a little something to note do
 
 To initiate the code we start off with three main ***dictionaries***. One named "*SOLDIERS_ATTRIBUTES*", another called "*CLASS_ADVANTAGES*" and lastly "*TERRAIN_ADVANTAGES*". The **class advantages** pertain to the fact that certain troops have certain advantages over their adversaries. I.e, archers have a ranged advantage, but when infantry/cavalry get close, their edge turns into a disparity. 
 
--**Q**: "*Tell me, why three main dictionaries? Why not use just one? Why not a simple list? Or an array?*"
--**A**: Well, the answer to that's quite simple. It's more plain and more efficient (in terms of readability and personal comfort - there is no real benefit doing either thing in terms of computation efficiency on this scale). 
+- **Q**: "*Tell me, why three main dictionaries? Why not use just one? Why not a simple list? Or an array?*"
+- **A**: Well, the answer to that's quite simple. It's more plain and more efficient (in terms of readability and personal comfort - there is no real benefit doing either thing in terms of computation efficiency on this scale). 
 
 ***Moving on***, you can see that these dictionaries are composed of several items that contain different values. Some are *metric stats* such as the health quantity, and others are variables that pertain to items, such as the preferred distance. 
 
