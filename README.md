@@ -61,8 +61,8 @@ At last, we've arrived at what we commenced for; the simulation itself. Without 
 - Using these random attributes, we conduct the fight between the troops by calling the **battle** funciton which uses the variables we mentioned earlier. As previously mentioned, the **battle** function is the computation behind the simulation, or in other words; the simulation itself. 
 - Then it verifies the following; if someone is defeated, their count is lowered by one in accordance with the relevant troop (remember; it does so on a troop vs troop basis). If either army has been defeated, it simply ends the fight. Then, it prints the results. 
 
-## With that, we come to an end. As time passes and based on traffic, I'll include a Q&A as a separate section of this readme file. Until then, keep on codin'!
+### With that, we come to an end. As time passes and based on traffic, I'll include a Q&A as a separate section of this readme file. Until then, keep on codin'!
 
-### LICENSE
+# LICENSE
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/GiladTrachtenberg/python-battlesim/main/LICENSE)
