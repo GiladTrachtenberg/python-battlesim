@@ -2,7 +2,7 @@
 
 Hello everyone! Here, I'm showcasing a very nice (and niche) project coded in Python; a battle simulator. In general, it takes into account 5 tiers of soldiers, and divides the army into mounted (cavalry), ranged (archers) and infantry. It takes into account more variables and multipliers such as morale (commander_multiplier), terrain advantage, strategic advantage and more. We've We'll dive in a bit deeper shortly.
 
-## The basics - how do I even run it? What do I do
+## Laying the Foundation - Prerequisits:
 
 - **First** and foremost, you'll need to have [Python 3.7 or higher](https://www.python.org/downloads/) installed on your computer (added a link for your convenience).
 - **Secondly**, you might want to browse the code and update some of the variables, multipliers and values youreselves. 
