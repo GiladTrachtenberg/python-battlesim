@@ -1,6 +1,6 @@
 # Python Battle Simulator 
 
-Hello everyone! Here, I'm showcasing a very nice (and niche) project coded in Python; a battle simulator. In general, it takes into account 5 tiers of soldiers, and divides the army into mounted (cavalry), ranged (archers) and infantry. It takes into account more variables and multipliers such as morale (commander_multiplier), terrain advantage, strategic advantage and more. We've We'll dive in a bit deeper shortly.
+Hello everyone! Here, I'm showcasing a very nice (and niche) project coded in Python; a battle simulator. In general, it takes into account 5 tiers of soldiers, and divides the army into mounted (cavalry), ranged (archers) and infantry. It takes into account more variables and multipliers such as morale (commander_multiplier), terrain advantage, strategic advantage and more. We'll dive in a bit deeper shortly.
 
 ## Laying the Foundation - Prerequisits:
 
