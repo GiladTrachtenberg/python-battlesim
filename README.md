@@ -1,16 +1,16 @@
 # Python Battle Simulator 
 
-Hello everyone! Here, I'm showcasing a very nice (and niche) project coded in Python; a battle simulator. In general, it takes into account 5 tiers of soldiers, and divides the army into mounted (cavalry), ranged (archers) and infantry. It takes into account more variables and multipliers such as morale (commander_multiplier), terrain advantage, strategic advantage and more. We'll dive in a bit deeper shortly.
+Hello everyone! Here, I'm showcasing a very barebones, nice (and niche) project coded in Python; a battle simulator. In general, it takes into account 5 tiers of soldiers, and divides the army into mounted (cavalry), ranged (archers) and infantry. It takes into account more variables and multipliers such as morale (commander_multiplier), terrain advantage, strategic advantage and more. We'll dive in a bit deeper shortly.
 
-## Laying the Foundation - Prerequisits:
+## Instructions: Running the Code
 
 - **First** and foremost, you'll need to have [Python 3.7 or higher](https://www.python.org/downloads/) installed on your computer (added a link for your convenience).
 - **Secondly**, you might want to browse the code and update some of the variables, multipliers and values youreselves. 
-- **Lastly**, simply run the code via your preferred IDE (or shell) and see the results for yourselves! If you're using a shell to run it, make sure to navigate to the file and run it in a similar fashion to what's shown here: ```python3 ./battlesimulator.py``` (make sure to customize this, if needed, according to your shell).
+- **Lastly**, simply run the code via your preferred IDE (or shell) and see the results for yourselves! If you're using a shell to run it, make sure to navigate to the file and run it in a similar fashion to what's shown here: ```python3 ./battlesimulator.py``` (make sure to customize this, if needed, according to your shell). This is does not have a finished artifact as of right now.
 
 Regardless, it's important to denote (at this early stage of the documentation) that this battle simulator might be "*inefficient*" in terms of pure computational context, as it performs its simulaton on a soldier by soldier basis. Don't worry if you don't fully understand it now; you'll understand it the deeper we'll dive into the documentation. 
 
-## The Nitty-Gritty; "Tell me, what the hell have you done?!"
+## Important Note Before We Proceed
 
 Easy, now! I'll be right happy to, of course. Just a little something to note down before we proceed to the truly fun stuff. When you see variables/arguments called "attacker" and "defender" sent to a funciton, remember that these are troops who are positioned on this side. For instance, an archer attacker and a cavalry defender.
 
@@ -50,7 +50,7 @@ Once we've organized them, we're ready use other advantage variables, such as th
 
 What's next? Well, you're about to graduate. 
 
-### Master of War
+### Master of War - Completing the Code
 
 At last, we've arrived at what we commenced for; the simulation itself. Without further ado, let's break it down:
 
